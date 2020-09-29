@@ -1,7 +1,7 @@
 {
   "name": "The Paladin Newspaper",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "https://thepaladin.news/?utm_source=homescreen",
   "short_name": "The Paladin",
   "theme_color": "#722e97",
   "description": "PWA App for The Paladin Newspaper",
