@@ -57,10 +57,5 @@
       "sizes": "2400x1600",
       "type": "image/png"
     }
-  ],
-  "features": [
-    "Cross Platform",
-    "fast",
-    "simple"
   ]
 }
